@@ -1,0 +1,6 @@
+numpy
+open3d
+opencv-python
+yacs
+matplotlib
+termcolor
